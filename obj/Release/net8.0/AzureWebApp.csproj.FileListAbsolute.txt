@@ -28,3 +28,4 @@ C:\Users\krikrishna\Desktop\AZ - 204\Samples\AzureWebApp\obj\Release\net8.0\refi
 C:\Users\krikrishna\Desktop\AZ - 204\Samples\AzureWebApp\obj\Release\net8.0\AzureWebApp.pdb
 C:\Users\krikrishna\Desktop\AZ - 204\Samples\AzureWebApp\obj\Release\net8.0\AzureWebApp.genruntimeconfig.cache
 C:\Users\krikrishna\Desktop\AZ - 204\Samples\AzureWebApp\obj\Release\net8.0\ref\AzureWebApp.dll
+C:\Users\krikrishna\Desktop\AZ - 204\Samples\AzureWebApp\obj\Release\net8.0\AzureWebApp.sourcelink.json
