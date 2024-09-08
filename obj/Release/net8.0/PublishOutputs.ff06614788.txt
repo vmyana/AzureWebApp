@@ -1,0 +1,7 @@
+C:\Users\krikrishna\Desktop\AZ - 204\Samples\AzureWebApp\bin\Release\net8.0\publish\AzureWebApp.exe
+C:\Users\krikrishna\Desktop\AZ - 204\Samples\AzureWebApp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\krikrishna\Desktop\AZ - 204\Samples\AzureWebApp\bin\Release\net8.0\publish\appsettings.json
+C:\Users\krikrishna\Desktop\AZ - 204\Samples\AzureWebApp\bin\Release\net8.0\publish\AzureWebApp.dll
+C:\Users\krikrishna\Desktop\AZ - 204\Samples\AzureWebApp\bin\Release\net8.0\publish\AzureWebApp.deps.json
+C:\Users\krikrishna\Desktop\AZ - 204\Samples\AzureWebApp\bin\Release\net8.0\publish\AzureWebApp.runtimeconfig.json
+C:\Users\krikrishna\Desktop\AZ - 204\Samples\AzureWebApp\bin\Release\net8.0\publish\AzureWebApp.pdb

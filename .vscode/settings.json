@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/80898fc9-609d-48bc-94ee-55e165382d94/resourceGroups/krishna-development/providers/Microsoft.Web/sites/tez"
+}
